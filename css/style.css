@@ -1,0 +1,30 @@
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    font-size: 18px;
+    font-weight: 900;
+}
+
+h1 {
+    font-size: 37px;
+    letter-spacing: 46px;
+    font-family: Tahoma, Helvetica, sans-serif;
+    color: black;
+}
+
+h2 {
+    font-size: 25px;
+    letter-spacing: 38px;
+    font-family: Tahoma, Helvetica, sans-serif;
+}
+
+img {
+    width: 50%;
+    height: 100%;
+}
+
+.parrafo {
+    font-size: 18px;
+    letter-spacing: 27px;
+    color:#333;
+}
+
